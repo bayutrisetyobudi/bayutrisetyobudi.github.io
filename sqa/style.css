@@ -10,7 +10,7 @@ body{
 }
 .container{
     /* border: 2px solid red; */
-    width: 550px;
+    width: 650px;
     height: 710px;
     background: linear-gradient(to bottom, rgba(69, 0, 109, 0.603),rgba(110, 0, 169, 0.718),rgba(154, 1, 236, 0.819));
     display: flex;
@@ -60,7 +60,7 @@ body{
     align-items: center;
     justify-content: space-between;
     padding: .9rem 2rem;
-    width: 420px;
+    width: 620px;
     border-radius: 9px;
     background-color: rgba(255, 255, 255, 0.795);
     margin: 1rem;
